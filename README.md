@@ -6,7 +6,7 @@
   <hr width="50%" style="height: 5px;">
 </div>
 <div align="center">
-# 🔥 Spells 
+  <h1 align="center">🔥 Spells </h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
