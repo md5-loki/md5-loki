@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue)
 ![](https://img.shields.io/badge/Lang-Python-blue)
 ![](https://img.shields.io/badge/Lang-Javascript-blue)
-![](https://img.shields.io/badge/Lang-C#-blue)
+![](https://img.shields.io/badge/Lang-CSharp-blue)
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
