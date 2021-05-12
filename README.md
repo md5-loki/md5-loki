@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  ![Instagram](https://img.shields.io/badge/-md5.loki-purple?style=flat-square&logo=instagram&logoColor=white)(https://reactjs.org/) 
+  [![IG](https://img.shields.io/badge/-md5.loki-purple?style=flat-square&logo=instagramt&logoColor=white)](https://www.instagram.com/md5.loki/)
 
 </div>
 
