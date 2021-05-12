@@ -4,9 +4,10 @@
 
 <div align="center">
   <hr width="50%" style="height: 5px;">
+  # 🔥 Spells 
 </div>
 
-# 🔥 Spells 
+
 
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
