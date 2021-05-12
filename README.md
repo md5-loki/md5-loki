@@ -13,6 +13,13 @@
 </div>
 
 <div align="center">
+  
+  ![do](https://github.com/md5-loki/md5-loki/blob/main/bannerName.png)
+  
+</div>
+
+
+<div align="center">
   <h1 align="center">🔥 Spells </h1>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
