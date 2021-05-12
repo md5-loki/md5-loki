@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  ![do](https://github.com/md5-loki/md5-loki/blob/main/bannerName.png)
+  ![do](https://github.com/md5-loki/md5-loki/blob/main/do.png)
   
 </div>
 
