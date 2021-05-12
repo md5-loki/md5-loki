@@ -4,7 +4,7 @@
 
 <div align="center">
   <hr width="50%" style="height: 5px;">
-  # 🔥 Spells 
+  <h1>🔥 Spells</h1> 
 </div>
 
 
