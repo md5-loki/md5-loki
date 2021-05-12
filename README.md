@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![IG](https://img.shields.io/badge/-md5.loki-purple?style=flat-square&logo=instagramt&logoColor=white)](https://www.instagram.com/md5.loki/)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x-loki-x&cover_image=true&theme=default)]
 
 </div>
 
