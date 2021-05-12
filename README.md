@@ -6,8 +6,8 @@
   <hr width="50%" style="height: 5px;">
 </div>
 
-[![React](https://img.shields.io/badge/JavaScript_Framework-ReactJS-blue?style=flat-square&logo=react&logoColor=white)](https://vuejs.org/)
-[![Django](https://img.shields.io/badge/Python_Framework-Django-brightgreen?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/JavaScript_Framework-ReactJS-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Django](https://img.shields.io/badge/Python_Framework-Django-brightgreen?style=flat-square&logo=python&logoColor=white)](https://www.djangoproject.com/)
 
 
 <!---
