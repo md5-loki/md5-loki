@@ -7,7 +7,7 @@
 </div>
 
 ![](https://img.shields.io/badge/OS-Windows%2C%20Manjaro%20Linux-blue?style=flat&logo=<LOGO_NAME>)
-![](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=python)
+![](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=vscode)
 ![](https://img.shields.io/badge/Lang-Python-blue)
 ![](https://img.shields.io/badge/Lang-Javascript-blue)
 ![](https://img.shields.io/badge/Lang-CSharp-blue)
