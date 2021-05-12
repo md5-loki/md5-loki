@@ -6,7 +6,7 @@
   <hr width="50%" style="height: 5px;">
 </div>
 
-![](https://img.shields.io/badge/OS-Windows%2C%20Manjaro%20Linux-blue)
+![](https://img.shields.io/badge/OS-Windows%2C%20Manjaro%20Linux-blue?style=flat&logo=<LOGO_NAME>)
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue)
 ![](https://img.shields.io/badge/Lang-Python-blue)
 ![](https://img.shields.io/badge/Lang-Javascript-blue)
