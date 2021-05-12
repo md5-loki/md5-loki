@@ -6,7 +6,7 @@
   <hr width="50%" style="height: 5px;">
 </div>
 
-[![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/JavaScript_framework-ReactJS-success?style=flat-square&logo=reactjs.js&logoColor=white)](https://vuejs.org/)
 
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
