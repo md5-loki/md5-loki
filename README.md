@@ -8,8 +8,6 @@
 
 </div>
 
-<p>&#127465;&#127476;</p>
-
 <div align="center">
   <hr width="50%" style="height: 5px;">
 </div>
