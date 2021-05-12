@@ -2,7 +2,7 @@
 
 <!-- ![Banner](https://github.com/md5-loki/md5-loki/blob/main/bannerName.png) -->
 
-<a href=""><img src="https://github.com/md5-loki/md5-loki/blob/main/bannerName.png"></img></a>
+<a href=""><img src="https://github.com/md5-loki/md5-loki/blob/main/bannerName.png" style="padding: 20px;"></img></a>
 
 
 <div align="center">
