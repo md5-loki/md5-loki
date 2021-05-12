@@ -1,7 +1,8 @@
 # Gott beschütze mich vor meinen Freunden... 🙏☁️🚀
 
-![Banner](https://github.com/md5-loki/md5-loki/blob/main/bannerName.png)
+<!-- ![Banner](https://github.com/md5-loki/md5-loki/blob/main/bannerName.png) -->
 
+<a href=""><img src="https://github.com/md5-loki/md5-loki/blob/main/bannerName.png"></img></a>
 
 
 <div align="center">
