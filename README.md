@@ -11,8 +11,10 @@
 <div align="center">
   <hr width="50%" style="height: 5px;">
 </div>
+
 # Languages
 ## 🇩🇪 🇺🇸 🇩🇴 (Latin American Spanish)
+
 <div align="center">
   <hr width="50%" style="height: 5px;">
 </div>
