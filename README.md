@@ -13,7 +13,7 @@
 </div>
 
 # Languages
-## 🇩🇪 🇺🇸 🇩🇴 (Latin American Spanish)
+:us:
 
 <div align="center">
   <hr width="50%" style="height: 5px;">
