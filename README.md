@@ -2,11 +2,7 @@
 
 ![Banner](https://github.com/md5-loki/md5-loki/blob/main/bannerName.png)
 
-<div align="center">
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x-loki-x&cover_image=true&theme=default)](https://open.spotify.com/playlist/6XwpQUegQthsVvIuqFgdwQ?si=3e725326dbf54cbf)
-
-</div>
 
 <div align="center">
   <hr width="50%" style="height: 5px;">
@@ -48,7 +44,12 @@
 
 
   ![Visitor Count](https://profile-counter.glitch.me/{md5-loki}/count.svg)
-<div>
+</div>
+<div align="center">
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x-loki-x&cover_image=true&theme=default)](https://open.spotify.com/playlist/6XwpQUegQthsVvIuqFgdwQ?si=3e725326dbf54cbf)
+
+</div>
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
