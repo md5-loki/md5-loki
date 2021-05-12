@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  <img src="https://github.com/md5-loki/md5-loki/blob/main/do.png" height="30px" width="45px"></img>
+  <img src="https://github.com/md5-loki/md5-loki/blob/main/do.png" height="30px" width="43px"></img>
   
 </div>
 
