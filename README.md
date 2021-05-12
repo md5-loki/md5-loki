@@ -6,11 +6,7 @@
   <hr width="50%" style="height: 5px;">
 </div>
 
-![](https://img.shields.io/badge/OS-Windows%2C%20Manjaro%20Linux-blue?style=flat&logo=<LOGO_NAME>)
-![](https://img.shields.io/badge/Editor-VS%20Code-blue)
-![](https://img.shields.io/badge/Lang-Python-blue?logo=python)
-![](https://img.shields.io/badge/Lang-Javascript-blue?logo=javascript)
-![](https://img.shields.io/badge/Lang-CSharp-blue?logo=csharp)
+
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
