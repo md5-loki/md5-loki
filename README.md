@@ -6,7 +6,9 @@
   <hr width="50%" style="height: 5px;">
 </div>
 
-[![React](https://img.shields.io/badge/JavaScript_framework-ReactJS-blue?style=flat-square&logo=react&logoColor=white)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/JavaScript_Framework-ReactJS-blue?style=flat-square&logo=react&logoColor=white)](https://vuejs.org/)
+[![Django](https://img.shields.io/badge/Python_Framework-Django-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
+
 
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
