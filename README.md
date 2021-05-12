@@ -14,6 +14,8 @@
 [![Django](https://img.shields.io/badge/Python_Framework-Django-brightgreen?style=flat-square&logo=python&logoColor=white)](https://www.djangoproject.com/)
 
 
+![Visitor Count](https://profile-counter.glitch.me/{md5-loki}/count.svg)
+
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
