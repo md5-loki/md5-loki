@@ -4,7 +4,6 @@
 
 <div align="center">
   <hr width="50%" style="height: 5px;">
-  ![](https://img.shields.io/badge/OS-Windows%2C%20Manjaro%20Linux-blue)
 </div>
 
 ![](https://img.shields.io/badge/OS-Windows%2C%20Manjaro%20Linux-blue)
