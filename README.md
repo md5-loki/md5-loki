@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <h1 align="center">🔥 Spells </h1>
+  <h1 align="center">📕 Spells </h1>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://en.wikipedia.org/wiki/Python_(programming_language))
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h1>Currently Working with: </h1>
+  <h1>📝 Currently Working with: </h1>
   
   [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
   [![OS](https://img.shields.io/badge/OS-Linux_Manjaro-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
