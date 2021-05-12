@@ -48,6 +48,7 @@
 <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/{md5-loki}/count.svg)
+  
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x-loki-x&cover_image=true&theme=default)](https://open.spotify.com/playlist/6XwpQUegQthsVvIuqFgdwQ?si=3e725326dbf54cbf)
 
 </div>
