@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x-loki-x&cover_image=true&theme=default)]
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x-loki-x&cover_image=true&theme=default)](https://open.spotify.com/playlist/6XwpQUegQthsVvIuqFgdwQ?si=3e725326dbf54cbf)
 
 </div>
 
