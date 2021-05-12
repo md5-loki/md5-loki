@@ -1,7 +1,11 @@
 # Gott beschütze mich vor meinen Freunden... 🙏☁️🚀
 
-![GitHub Logo](https://github.com/md5-loki/media_/blob/main/bannerName.png)
-[![Instagram Badge](https://img.shields.io/badge/-md5.loki-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/md5.loki/)](https://instagram.com/md5.loki)
+![Banner](https://github.com/md5-loki/media_/blob/main/bannerName.png)
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/-md5.loki-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/md5.loki/)]    (https://instagram.com/md5.loki)
+
+</div>
 
 <div align="center">
   <hr width="50%" style="height: 5px;">
