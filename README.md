@@ -13,7 +13,7 @@
 </div>
 
 # Languages
-🇩🇴
+<span>:dominican_republic:</span>
 
 <div align="center">
   <hr width="50%" style="height: 5px;">
