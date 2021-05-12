@@ -46,6 +46,7 @@
 
 </div>
 <div align="center">
+  <hr width="50%" style="height: 5px;">
   
   ![Visitor Count](https://profile-counter.glitch.me/{md5-loki}/count.svg)
   
