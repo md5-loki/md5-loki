@@ -5,7 +5,7 @@
 <div align="center">
   <hr width="50%" style="height: 5px;">
 </div>
-
+<div align="center">
 # 🔥 Spells 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -22,6 +22,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+  
+</div>
 
 <div align="center">
   
