@@ -6,7 +6,6 @@
   <hr width="50%" style="height: 5px;">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md5-loki&theme=radical))
 
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
