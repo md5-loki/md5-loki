@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  ![do](https://github.com/md5-loki/md5-loki/blob/main/do.png){:height="20px" width="20px"}
+  [![do](https://github.com/md5-loki/md5-loki/blob/main/do.png)]{:height="20px" width="20px"}
   
 </div>
 
