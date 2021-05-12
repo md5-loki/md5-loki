@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  
+  <p>Languages:</p>
   <img src="https://github.com/md5-loki/md5-loki/blob/main/do.png" height="30px" width="43px"></img>
   <img src="https://github.com/md5-loki/md5-loki/blob/main/de.png" height="30px" width="43px"></img>
   <img src="https://github.com/md5-loki/md5-loki/blob/main/us.png" height="30px" width="43px"></img>
