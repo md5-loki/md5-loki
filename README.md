@@ -11,6 +11,11 @@
 <div align="center">
   <hr width="50%" style="height: 5px;">
 </div>
+# Languages
+## 🇩🇪 🇺🇸 🇩🇴 (Latin American Spanish)
+<div align="center">
+  <hr width="50%" style="height: 5px;">
+</div>
 
 <div align="center">
   <h1 align="center">🔥 Spells </h1>
