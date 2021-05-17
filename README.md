@@ -34,7 +34,7 @@
   <h1>📝 Currently Working with: </h1>
   
   [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-  [![OS](https://img.shields.io/badge/OS-Linux_Manjaro-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+  [![OS](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
   
   [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![React](https://img.shields.io/badge/JavaScript_Framework-ReactJS-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
