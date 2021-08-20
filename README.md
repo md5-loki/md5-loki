@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h1>📝 Currently Working with: </h1>
+  <h1>📝 Currently working with: </h1>
   
   [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
   [![OS](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
