@@ -38,7 +38,7 @@
   
   [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![React](https://img.shields.io/badge/JavaScript_Framework-ReactJS-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-  [![Django](https://img.shields.io/badge/Python_Framework-Django-brightgreen?style=flat-square&logo=python&logoColor=white)](https://www.djangoproject.com/)
+  <!--[![Django](https://img.shields.io/badge/Python_Framework-Django-brightgreen?style=flat-square&logo=python&logoColor=white)](https://www.djangoproject.com/)--->
 
 
 
