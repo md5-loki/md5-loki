@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h1>🗣️Languages:</h1>
+  <h1>🗣️ Languages </h1>
   <a href="https://en.wikipedia.org/wiki/Dominican_Republic"><img src="https://github.com/md5-loki/md5-loki/blob/main/do.png" height="30px" width="43px"></img></a>
   <a href="https://en.wikipedia.org/wiki/United_States"><img src="https://github.com/md5-loki/md5-loki/blob/main/us.png" height="30px" width="43px"></img></a>
   <a href="https://de.wikipedia.org/wiki/Deutschland"><img src="https://github.com/md5-loki/md5-loki/blob/main/de.png" height="30px" width="43px"></img></a>
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h1>📝 Currently working with: </h1>
+  <h1>📝 Currently working with </h1>
   
   [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
   [![OS](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
