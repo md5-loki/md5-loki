@@ -48,8 +48,8 @@
   
   ![Visitor Count](https://profile-counter.glitch.me/{md5-loki}/count.svg)
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x-loki-x&cover_image=true&theme=default)](https://open.spotify.com/playlist/6XwpQUegQthsVvIuqFgdwQ?si=3e725326dbf54cbf)
-
+  <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x-loki-x&cover_image=true&theme=default)](https://open.spotify.com/playlist/6XwpQUegQthsVvIuqFgdwQ?si=3e725326dbf54cbf)
+  -->
 </div>
 <!---
 md5-loki/md5-loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
